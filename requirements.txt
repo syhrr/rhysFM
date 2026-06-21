@@ -1,0 +1,10 @@
+requests
+pandas
+pyarrow
+scikit-learn
+gensim
+umap-learn
+ruptures
+plotly
+streamlit
+jupyter
