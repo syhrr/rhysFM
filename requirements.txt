@@ -7,4 +7,4 @@ umap-learn
 ruptures
 plotly
 streamlit
-jupyter
+jupyterpython-dotenv
